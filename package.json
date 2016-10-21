@@ -1,0 +1,17 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "Testing webpack import statement.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "compile": "webpack --config webpack.config.js"
+  },
+  "author": "Emir A. Salazar L.",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.2.4",
+    "path": "^0.12.7",
+    "typescript": "^2.0.3",
+    "webpack": "^1.13.2"
+  }
+}
